@@ -8,4 +8,5 @@ def factorial(n):
 print(factorial(5))  
 print(factorial(4))  
 
-#The time complexity is O(n) since the function calls itself recursively n times.
+#time complexity = O(n) 
+#space complexity  = O(n) 
